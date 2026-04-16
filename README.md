@@ -11,29 +11,6 @@
 * 🧠 关注如何让大模型从“生成答案”进化到“执行复杂任务”
 * ⚡ 主要实践方向：**Plan-and-Execute / 工具调用 / Agent 框架设计**
 
----
-
-## 🛠 技术栈
-
-**后端开发**
-
-* Java / Spring Boot / MyBatis-Plus
-* MySQL / Redis / Kafka
-* 分布式系统 / 缓存设计 / 高并发处理
-
-**AI / 大模型方向**
-
-* LangChain / LangChain4j
-* OpenAI API / Tool Calling
-* Agent 架构（Plan-Execute / ReAct）
-
-**工程能力**
-
-* Python
-* RESTful API 设计
-* 系统设计与性能优化
-
----
 
 ## 🔥 核心项目
 
@@ -58,6 +35,30 @@
 * 🧠 构建 **Caffeine + Redis 多级缓存体系**
 * 🔒 解决缓存穿透 / 击穿 / 雪崩问题
 * 📈 提升系统在高并发场景下的稳定性与吞吐能力
+
+---
+
+---
+
+## 🛠 技术栈
+
+**后端开发**
+
+* Java / Spring Boot / MyBatis-Plus
+* MySQL / Redis / Kafka
+* 分布式系统 / 缓存设计 / 高并发处理
+
+**AI / 大模型方向**
+
+* LangChain / LangChain4j
+* OpenAI API / Tool Calling
+* Agent 架构（Plan-Execute / ReAct）
+
+**工程能力**
+
+* Python
+* RESTful API 设计
+* 系统设计与性能优化
 
 ---
 
