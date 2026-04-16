@@ -46,7 +46,7 @@
 * 🛠 设计通用工具调用机制，支持真实任务执行
 * 📊 构建执行反馈闭环，避免 Agent 死循环问题
 * 🚀 提升大模型在多步骤任务中的稳定性与可控性
-
+🔗 项目链接：https://github.com/tianjinpeng463/Agent--Plan-and-Execute
 ---
 
 ### 🏪 智惠生活平台
